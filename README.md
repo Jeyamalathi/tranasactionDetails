@@ -1,2 +1,0 @@
-# tranasactionDetails
-Created with CodeSandbox
